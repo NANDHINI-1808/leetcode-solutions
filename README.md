@@ -24,11 +24,13 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
