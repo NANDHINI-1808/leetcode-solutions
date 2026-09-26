@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -43,4 +44,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
