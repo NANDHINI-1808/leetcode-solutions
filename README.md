@@ -9,6 +9,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -29,12 +30,14 @@
 | [0242-valid-anagram](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
