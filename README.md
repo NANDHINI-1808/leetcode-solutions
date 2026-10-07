@@ -46,6 +46,7 @@
 | [0020-valid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -110,8 +111,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
