@@ -13,6 +13,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
