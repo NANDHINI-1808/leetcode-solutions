@@ -15,6 +15,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
