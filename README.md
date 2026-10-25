@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
@@ -129,8 +131,17 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
