@@ -15,6 +15,7 @@
 | [1920-build-array-from-permutation](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
@@ -90,6 +91,7 @@
 | [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -140,8 +143,10 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NANDHINI-1808/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
